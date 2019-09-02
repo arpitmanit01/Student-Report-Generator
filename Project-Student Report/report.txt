@@ -1,0 +1,7 @@
+Name                   Average     Grade
+----------------------------------------
+Newyork,bsdk!            93.33         A
+Asgard se huin bc!       74.33         C
+Spider Man               90.00         B
+Green Lantern            70.00         D
+Superman                 62.00         D
